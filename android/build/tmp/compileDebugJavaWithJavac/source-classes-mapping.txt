@@ -1,0 +1,2 @@
+com/reactnativelogger/BuildConfig.java
+ com.reactnativelogger.BuildConfig
